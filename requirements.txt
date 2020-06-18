@@ -1,0 +1,13 @@
+
+# -- --------------------------------------------------------------------------------------------------- -- #
+# -- project: Google Spreadsheets conexion codes                                                         -- #
+# -- script: requirements.txt - file with packages requirements for the script                           -- #
+# -- author: FranciscoME                                                                                 -- #
+# -- license: GPL-3.0                                                                                    -- #
+# -- repository: https://github.com/ITESO-CD/google_spreadsheets                                         -- #
+# -- --------------------------------------------------------------------------------------------------- -- #
+
+numpy
+pandas
+gspread
+oauth2client
